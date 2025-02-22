@@ -51,11 +51,15 @@ Here are some of the projects I've worked on:
 
 And many more projects that I participated in.
 
-together with countless contributions to various open-source projects including but not limited to: Laravel, Magento 2, Magento 1, Magento 1 LTS
+Together with countless contributions to various open-source projects including but not limited to: Laravel, Magento 2, Magento 1, Magento 1 LTS
 
+
+## GitHub Stats
+
+![Abdel Aouby's GitHub stats](https://github-readme-stats-beta-tawny-44.vercel.app/api?username=abdel-aouby&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&theme=transparent&rank_icon=github)
 
 ## Get in Touch
 
-Feel free to reach out to me via email at [abdelmajid.aouby@gmail.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/abdelmajidaouby).
+Feel free to reach out to me via [email](abdelmajid.aouby@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/abdelmajidaouby).
 
 Thanks for visiting my profile!
