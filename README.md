@@ -60,6 +60,8 @@ Together with countless contributions to various open-source projects including 
 
 ## Get in Touch
 
-Feel free to contact me via email at: abdelmajid.aouby@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/abdelmajidaouby).
+Feel free to contact me at: <a href="mailto:abdelmajid.aouby@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-abdelmajid.aouby@gmail.com-blue?style=flat-square&logo=gmail"></a> </br>
+or connect with me on  
+<a href="https://www.linkedin.com/in/abdelmajidaouby"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Abdelmajid%20Aouby-blue?style=flat-square&logo=linkedin"></p>
 
 Thanks for visiting my profile!
